@@ -7,6 +7,23 @@ python manage.py run
 """
 
 
+# Docker Commands
+# ===============
+'''
+# build
+docker-compose build
+
+# run and take down services
+docker-compose up -d
+docker-compose up -d --build
+docker-compose down
+
+# Logs
+docker-compose logs
+
+'''
+
+
 # CURL:
 # =====
 '''
